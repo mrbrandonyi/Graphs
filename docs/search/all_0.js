@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['add_0',['add',['../main_8cpp.html#aa99823a0fc8313c9c32541ce768fb801',1,'main.cpp']]]
+  ['addedge_0',['addEdge',['../classGraph.html#a47db9221d948e3133d9d5cc9f0afe160',1,'Graph']]]
 ];
