@@ -126,5 +126,16 @@ int main() {
     g.addEdge(11,7);
     g.addEdge(1,6);
     g.addEdge(5,2);
+    cout << "This is the output of addEdge function" << endl;
     g.printgraph();
+    g.addEdge(0,5);
+    cout << "Added edge (0,5)" << endl;
+    g.printgraph();
+    g.removeEdge(0,5);
+    cout << "Removed edge(0,5)" << endl;
+    g.printgraph();
+    g.hasEdge(11,6);
+    cout << "This is the output of hasEdge function" << endl;
+    g.printgraph();
+    
 }
